@@ -1,0 +1,14 @@
+.sandbox-header {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0px;
+    background-color: #d2322d;
+    border-color: #d43f3a;
+    z-index: 5000;
+    color: white;
+    opacity: 0.95;
+}
+
+.sandbox-header a {
+    color: white;
+}
